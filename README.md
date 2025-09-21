@@ -14,7 +14,7 @@ This repository serves as my personal notebook, a space for experimentation, and
 
 ---
 
-## 🛣️ The Learning Roadmap
+## The Learning Roadmap
 
 This journey is divided into three core phases. Each phase builds upon the knowledge of the previous one.
 
@@ -54,7 +54,7 @@ With a solid grasp of the language, this phase dives into fundamental computer s
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 The repository is organized into directories corresponding to the learning phases.
 
@@ -70,7 +70,7 @@ Each folder will contain small projects and code examples relevant to its topic.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 To compile and run the code in this repository, you will need a C++ compiler:
@@ -97,7 +97,7 @@ g++ your_file_name.cpp -o output_executable
 
 ---
 
-## 💡 My Learning Philosophy
+## My Learning Philosophy
 
 - **Build to Learn:** Focus on hands-on, practical projects rather than just theory.  
 - **Master the Fundamentals:** Ensure a solid understanding of the basics before moving to more complex topics.  
